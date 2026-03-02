@@ -1,3 +1,6 @@
 [submodule "tec-coreos-config"]
 	path = tec-coreos-config
-	url = git@github.com:alicefr/tec-coreos-config.git
+	url = https://github.com/trusted-execution-clusters/fedora-coreos-tec-config
+[submodule "rhel-coreos-config"]
+	path = rhel-coreos-config
+	url = https://github.com/coreos/rhel-coreos-config.git

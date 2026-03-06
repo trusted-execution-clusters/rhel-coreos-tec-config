@@ -1,0 +1,2 @@
+- pattern: '*'
+  tracker: "No test for Trusted Execution"
